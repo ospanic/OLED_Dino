@@ -1,0 +1,4 @@
+/out
+*.uvopt
+Clean.bat
+*.uvgui.*
